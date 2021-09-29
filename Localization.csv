@@ -10,9 +10,9 @@ Replay_file_name,Replay file name,Имя файла повтора
 Resume_Game,Resume Game,Продолжить игру 
 NewGame,New Game,Новая игра
 player_vs_ai,PLAY VS AI,ИГРАТЬ ПРОТИВ ИИ
-player_vs_player,player vs player,игрок против игрока
-main,main,главный
-play,play,играть
-collection,collection,коллекция
-last_news,last news,последние новости
+player_vs_player,PLAYER VS PLAYER,ИГРОК ПРОТИВ ИГРОКА
+main,MAIN,ГЛАВНЫЙ
+play,PLAY,ИГРАТЬ
+collection,COLLECTION,КОЛЛЕКЦИЯ
+last_news,LAST NEWS,ПОСЛЕДНИЕ НОВОСТИ
 news_content,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna a,Лорем ипсум долор сит амет, ид атоморум репримияуе, нонумы иуварет деленити ид усу. Амет новум оффендит яуи цу, ет 
