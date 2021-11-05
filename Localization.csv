@@ -9,8 +9,8 @@ Cancel,Cancel,Отмена
 Replay_file_name,Replay file name,Имя файла повтора
 Resume_Game,Resume Game,Продолжить игру 
 NewGame,New Game,Новая игра
-player_vs_ai,PLAY VS AI,ИГРАТЬ ПРОТИВ ИИ
-player_vs_player,PLAYER VS PLAYER,ИГРОК ПРОТИВ ИГРОКА
+player_vs_ai,Quick Bot Match,игрок против ИИ 
+player_vs_player,Quick PvP Match,Быстрый PvP-матч
 main,MAIN,ГЛАВНЫЙ
 play,PLAY,ИГРАТЬ
 collection,COLLECTION,КОЛЛЕКЦИЯ
