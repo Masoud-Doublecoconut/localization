@@ -16,3 +16,8 @@ play,PLAY,ИГРАТЬ
 collection,COLLECTION,КОЛЛЕКЦИЯ
 last_news,LAST NEWS,ПОСЛЕДНИЕ НОВОСТИ
 news_content,Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna , Лорем ипсум долор сит амет ид атоморум репримияуе нонумы иуварет деленити ид усу. Амет новум оффендит яуи цу ет 
+Casual,PvP Match,PvP матч
+Challenge,Direct Challenge,Прямой вызов
+BotDescription,Practice against the AI,Практика против ИИ
+CasualDescription,Play against a random rival,Играйте против случайного соперника
+ChallengeDecription,Challenge a friend,Бросьте вызов другу
